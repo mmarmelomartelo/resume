@@ -20,7 +20,7 @@
 <div id="cv" class="instaFade">
 	<div class="mainDetails">
 		<div id="headshot" class="quickFade">
-			<img src='images/mfm.jpg' alt="Alan Smith" />
+			<img src='images/mfm.jpg' alt="Marcelo Montenegro" />
 		</div>
 		
 		<div id="name">
@@ -31,7 +31,7 @@
 		<div id="contactDetails" class="quickFade delayFour">
 			<ul>
 				<li><a href="mailto:montenegromf@gmail.com" target="_blank">montenegromf@gmail.com</a></li>
-				<li><a href="http://www.montenegromf.cc">www.montenegromf.cc</a></li>
+				<li><a href="http://montenegromf.net">http://montenegromf.net</a></li>
 				
 			</ul>
 		</div>
@@ -46,7 +46,7 @@
 				</div>
 				
 				<div class="sectionContent">
-					<p>I am a biomedical scientist interested in a career change. I began to code to solve a specific problem in my research and also to teach pharmacology to students, but end up getting in love with coding. I am a self-taught programmer, and I never thought about career changes. However, for each application I was building, new code challenges turn up, and try to solve these challenges was taking over more and more my interests over my regular job as a researcher. Then I decided that was time to switch my career.</p>
+					<p>I am a biomedical scientist interested in a career change. I began to code aiming optimize a specific problem in my research, and also to teach pharmacology to students, but end up getting in love with coding. I am a self-taught programmer, and I never thought about career changes. However, for each application I was building, new code challenges turn up, and try to solve these challenges was taking over more and more my interests over my regular job as a researcher. Then I decided that was time to switch my career.</p>
 				</div>
 			</article>
 			<div class="clear"></div>
@@ -95,7 +95,7 @@
 					<li>Linux</li>
 					<li>Bootstrap</li>
 					<li>GitHub</li>
-					<li>Horoku</li>
+					<li>Heroku</li>
 					<li>Python</li>
 					<li>Tkinter</li>
 					<li>Django</li>
@@ -151,13 +151,13 @@
 				<article>
 					<h2>To-Do List Stilyzed</h2>
 					<p class="subDetails">Django Frame Work, Python, Bootstrap</p>
-					<p>A fully functional To-Do List in Django framework. Database, Class-Check for input, and some alert box stylized by Bootstra</p>
+					<p>A fully functional To-Do List in Django framework. Database, Class-Check for input, and some alert box stylized by Bootstrap</p>
 				</article>
 
 				<article>
 					<h2>Math Flash Cards Game</h2>
-					<p class="subDetails">Django framework, Python, Bootstrap, Horoku</p>
-					<p>This is complete Math Flash Card based in contitional statements.</p>
+					<p class="subDetails">Django framework, Python, Bootstrap, Heroku</p>
+					<p>This is complete Math Flash Card based in conditional statements.</p>
 				</article>
 			</div>
 			<div class="clear"></div>
